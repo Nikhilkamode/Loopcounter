@@ -22,4 +22,3 @@ Include this in footer of the HTML file-
 		//loopcounter('second-counter');
 	});
 </script>
-Include this in footer of the HTML file-
